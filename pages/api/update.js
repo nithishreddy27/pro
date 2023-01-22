@@ -1,4 +1,3 @@
-// import { useRouter } from "next/router"
 import clientPromise from "../../lib/mongodb"
 
 

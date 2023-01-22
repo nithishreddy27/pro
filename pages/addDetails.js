@@ -1,7 +1,5 @@
-import React from "react";
-import Router from "next/router";
+import React,{ useState } from "react";
 import { useRouter } from "next/router";
-import { useState } from "react";
 
 export default function addDetails() {
   const router = useRouter();
